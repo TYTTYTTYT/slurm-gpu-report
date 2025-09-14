@@ -1,6 +1,6 @@
 # Slurm GPU Report
 
-`slurm_gpu_report.sh` is a Bash script that summarizes GPU allocation and job usage in a Slurm cluster.  
+`slurm_gpu_report` is a Bash command that summarizes GPU allocation and job usage in a Slurm cluster.  
 It provides **three views** (nodes, jobs, users) and can export results to **CSV**.
 
 ## ✨ Features
