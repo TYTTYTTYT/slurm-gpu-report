@@ -23,7 +23,7 @@ It provides **three views** (nodes, jobs, users) and can export results to **CSV
 
 ### Option 1: User-level install (recommended, no sudo)
 ```bash
-git clone https://github.com/YOURNAME/slurm-gpu-report.git
+git clone https://github.com/TYTTYTTYT/slurm-gpu-report.git
 cd slurm-gpu-report
 make install-user
 ```
@@ -37,7 +37,7 @@ source ~/.bashrc
 
 ### Option 2: System-wide install (admin only)
 ```bash
-git clone https://github.com/YOURNAME/slurm-gpu-report.git
+git clone https://github.com/TYTTYTTYT/slurm-gpu-report.git
 cd slurm-gpu-report
 sudo make install
 ```
